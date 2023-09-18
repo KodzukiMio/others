@@ -1,0 +1,18 @@
+Items: {
+	Sword0: {
+		DisplayName: Sword0
+		Tooltip: ""
+	}
+
+	MaryBread: {
+		RestoreLifeText: Mods.KurzerMod.Items.MaryBread.RestoreLifeText
+		DisplayName: Mary Bread
+		Tooltip: ""
+	}
+
+	Muogu: {
+		RestoreLifeText: Mods.KurzerMod.Items.Muogu.RestoreLifeText
+		DisplayName: Muogu
+		Tooltip: ""
+	}
+}

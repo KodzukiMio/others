@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>KurzerMod</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Remove="Content\新文件夹1\**" />
+    <Compile Remove="Content\新文件夹1\**" />
+    <EmbeddedResource Remove="Content\新文件夹1\**" />
+    <None Remove="Content\新文件夹1\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Content\Items\Consumables\MaryBread.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ClearScript" Version="7.4.2" />
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Projectiles\" />
+  </ItemGroup>
+</Project>

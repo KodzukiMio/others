@@ -1,0 +1,4 @@
+1.加载submit-jquery.js
+2.安装TOKENserver.py里的必要库
+3.启动TOKENserver.py;
+4.调用函数GetNewConversationAndKeepFirst(...)

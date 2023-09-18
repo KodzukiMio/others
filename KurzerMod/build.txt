@@ -1,0 +1,4 @@
+displayName = KurzerMod
+author = Kurzer
+version = 0.1
+dllReferences = ClearScript.V8,ClearScript.Core,ClearScript.V8.ICUData,ClearScript.Windows.Core,ClearScript.Windows

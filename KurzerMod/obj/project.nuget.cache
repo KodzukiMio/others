@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3S0cXtHpUuOfJ6ouO4FiJL7HirLup9SaPYzCtC+CUrwo/gzW14J8oWLqZB8fEylP6bqDWCaFFv3SpAFPBS/vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13182\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\KurzerMod\\KurzerMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript\\7.4.2\\microsoft.clearscript.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript.core\\7.4.2\\microsoft.clearscript.core.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript.v8\\7.4.2\\microsoft.clearscript.v8.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript.v8.icudata\\7.4.2\\microsoft.clearscript.v8.icudata.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript.v8.native.win-x64\\7.4.2\\microsoft.clearscript.v8.native.win-x64.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript.v8.native.win-x86\\7.4.2\\microsoft.clearscript.v8.native.win-x86.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript.windows\\7.4.2\\microsoft.clearscript.windows.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\microsoft.clearscript.windows.core\\7.4.2\\microsoft.clearscript.windows.core.7.4.2.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\13182\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
